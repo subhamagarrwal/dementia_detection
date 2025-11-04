@@ -1,0 +1,22 @@
+GEOLIFE DATASET STATISTICS
+============================================================
+
+Total GPS points: 24,876,978
+Number of users: 182
+Number of trajectories: 17784
+
+Date range: 2000-01-01 23:12:19 to 2012-07-27 08:31:20
+
+Transportation modes:
+  unknown: 19,436,362
+  walk: 1,590,334
+  bus: 1,279,364
+  bike: 950,937
+  train: 561,031
+  car: 514,150
+  subway: 286,926
+  taxi: 242,802
+  airplane: 9,193
+  boat: 3,566
+  run: 1,975
+  motorcycle: 338
